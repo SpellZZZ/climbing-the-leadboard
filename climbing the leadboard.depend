@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619120765 source:d:\c++\climbing the leadboard\main.cpp
+	<iostream>
+	<vector>
+	<map>
+
